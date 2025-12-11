@@ -44,26 +44,23 @@ His research focuses on efficient AI acceleration, particularly on the co design
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2024, 2020* National Scholarship, Ministry of Education, China
-- *2024* Science and Technology Innovation Scholarship, Huazhong University of Science and Technology
-- *2023, 2022* First Class Doctoral Scholarship, Huazhong University of Science and Technology
-- *2021* Outstanding Scholarship, Wuhan University of Technology (highest honor of the university, Top 0.1%)
-- *2021* Mathematical Contest in Modeling – Meritorious Winner (Top 6.45%)
-- *2021* China Undergraduate Mathematical Contest in Modeling – Second Prize (Top 1.83%)
+- ***2024, 2020:*** National Scholarship, Ministry of Education, China
+- ***2024:*** Science and Technology Innovation Scholarship, Huazhong University of Science and Technology
+- ***2023, 2022:*** First Class Doctoral Scholarship, Huazhong University of Science and Technology
+- ***2021:*** Outstanding Scholarship, Wuhan University of Technology (highest honor of the university, Top 0.1%)
+- ***2021:*** Mathematical Contest in Modeling – Meritorious Winner (Top 6.45%)
+- ***2021:*** China Undergraduate Mathematical Contest in Modeling – Second Prize (Top 1.83%)
 
 # 📖 Educations
-- *2022.06 – 2027.06 (expected)*  
+- ***2022.06 – 2027.06 (expected)*** 
   PhD Candidate in Computer Science, Huazhong University of Science and Technology; Supervised by Prof. Xiaofei Liao; GPA: 3.77/4; Rank: 1/11
-- *2018.09 – 2022.06*  
+- ***2018.09 – 2022.06***
   Bachelor of Engineering in Data Science and Big Data Technology, Wuhan University of Technology; GPA: 4.317/5; Rank: 1/33
 
 
 # 💬 Academic Achievements
-- *2025.09* Invited Talks, MeHyper: Accelerating Hypergraph Neural Networks by Exploring Implicit Dataflows. Session 3: GPU and Domain Specific Accelerator Architectures, CCFSys 2025, Beijing, China
-- *2024* Cover Article, Journal of Computer Science and Technology
-(Work on high performance graph processing)
-- *2022* Outstanding Undergraduate Thesis, Wuhan University of Technology
-Parallel Optimization of Sparse Triangular Matrix Solution Based on Shared Memory
-<!-- 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+- ***2025.09:*** **Invited Talks**, MeHyper: Accelerating Hypergraph Neural Networks by Exploring Implicit Dataflows. Session 3: GPU and Domain Specific Accelerator Architectures, CCFSys 2025, Beijing, China.
+- ***2024:*** **Cover Article**, Journal of Computer Science and Technology
+(Work on high performance graph processing).
+- ***2022:*** **Outstanding Undergraduate Thesis**, Parallel Optimization of Sparse Triangular Matrix Solution Based on Shared Memory, Wuhan University of Technology.
+
