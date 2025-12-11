@@ -58,7 +58,7 @@ His research focuses on efficient AI acceleration, particularly on the co design
   Bachelor of Engineering in Data Science and Big Data Technology, Wuhan University of Technology; GPA: 4.317/5; Rank: 1/33
 
 
-# 💬 Academic Achievements
+# ⭐ Academic Achievements
 - ***2025.09:*** **Invited Talks**, MeHyper: Accelerating Hypergraph Neural Networks by Exploring Implicit Dataflows. Session 3: GPU and Domain Specific Accelerator Architectures, CCFSys 2025, Beijing, China.
 - ***2024:*** **Cover Article**, Journal of Computer Science and Technology
 (Work on high performance graph processing).
