@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wenju Zhao"
-description              : "Wenju Zhao's Academic Homepage"
+description              : "Academic Homepage"
 repository               : "WenjuZhao/WenjuZhao.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Wenju Zhao"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/lasvegas"
   bio              : "Wenju Zhao is a PHD canadiate at Huazhong University of Science and Technology (HUST)."
   location         : "Wuhan, China"
   employer         :

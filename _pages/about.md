@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Wenju Zhao is a fourth year PhD candidate in the School of Computer Science and Technology at Huazhong University of Science and Technology, advised by <a href="http://faculty.hust.edu.cn/xfliao/zh_CN/index.htm" target="_blank">Prof. Xiaofei Liao</a>. He is also affiliated with the Key Laboratory of Services Computing Technology and System, Ministry of Education (<a href="https://grid.hust.edu.cn/sysgk/sysjj.htm" target="_blank">CGCL</a>). His research centers on efficient AI acceleration, focusing on co designed algorithms and hardware architectures for Large Language Models (LLMs) and Graph Neural Networks (GNNs).
+Wenju Zhao is a fourth year PhD candidate in the School of Computer Science and Technology at Huazhong University of Science and Technology, advised by <a href="http://faculty.hust.edu.cn/xfliao/zh_CN/index.htm" target="_blank">Prof. Xiaofei Liao</a>. He is also affiliated with the Key Laboratory of Services Computing Technology and System, Ministry of Education (<a href="https://grid.hust.edu.cn/index.htm" target="_blank">CGCL</a>). His research centers on efficient AI acceleration, focusing on co designed algorithms and hardware architectures for Large Language Models (LLMs) and Graph Neural Networks (GNNs).
 
 
 
