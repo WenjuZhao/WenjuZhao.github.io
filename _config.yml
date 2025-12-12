@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wenju Zhao"
   avatar           : "images/lasvegas.jpg"
-  bio              : "Wenju Zhao is a PHD canadiate at Huazhong University of Science and Technology (HUST)."
+  bio              : "PHD candidate"
   location         : "Wuhan, China"
   employer         :  "HUST"
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "wjzh@hust.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Wenju-Zhao-4?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"  
+  github           : "WenjuZhao"
   google_plus      :
   keybase          :
   instagram        :
