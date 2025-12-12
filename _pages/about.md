@@ -26,9 +26,19 @@ His research focuses on efficient AI acceleration, particularly on the co design
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-<!-- 
-# 📝 Publications 
 
+# 📝 Publications 
+- **MeHyper: Accelerating Hypergraph Neural Networks by Exploring Implicit Dataflows**
+- <u>Wenju Zhao</u>, Pengcheng Yao, Dan Chen, Long Zheng, Xiaofei Liao, Qinggang Wang, Shaobo Ma, Yu Li, Haifeng Liu, Wenjing Xiao, Yufei Sun, Bing Zhu, Hai Jin, Jingling Xue
+- *International Symposium on High-Performance Computer Architecture (HPCA 2025)*
+- **Towards High-Performance Graph Processing: From a Hardware/Software Co-Design Perspective**
+- <u>Xiaofei Liao, Wenju Zhao</u>, Hai Jin, Pengcheng Yao, Yu Huang, Qinggang Wang, Jin Zhao, Long Zheng, Yu Zhang, Zhiyuan Shao
+- Journal of Computer Science and Technology (JCST 2024, <span style="color:red">Cover Article</span>)
+- **PRAGA: A Priority-Aware Hardware/Software Co-design for High-Throughput Graph Processing Acceleration**
+- Long Zheng, Bing Zhu, Pengcheng Yao, Yuhang Zhou, Chengao Pan, <u>Wenju Zhao</u>, Xiaofei Liao, Hai Jin, and Jingling Xue
+- *ACM Transactions on Architecture and Code Optimization (TACO 2025)*
+
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
