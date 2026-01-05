@@ -19,7 +19,7 @@ redirect_from:
 
 Wenju Zhao is a fourth year PhD candidate in the School of Computer Science and Technology at Huazhong University of Science and Technology, advised by <a href="http://faculty.hust.edu.cn/xfliao/zh_CN/index.htm" target="_blank">Prof. Xiaofei Liao</a>. He conducts his research within the Key Laboratory of Services Computing Technology and System, Ministry of Education (CGCL), and is jointly co advised by <a href="https://scholar.google.com/citations?user=LjYkeCgAAAAJ&hl=zh-CN" target="_blank">Dr. Pengcheng Yao</a> and <a href="https://pages.mtu.edu/~jyue/" target="_blank">Prof. Jianhui Yue</a> (Michigan Technological University). Prior to his PhD, he received his Bachelor degree in Data Science and Big Data Technology from Wuhan University of Technology (2018–2022).
 
-His research focuses on efficient AI acceleration, particularly on the co design of algorithms and hardware for Large Language Models (LLMs) and Graph Neural Networks (GNNs). He also works on model compression techniques such as quantization and pruning, which complement his system level designs by reducing computational and memory demands. Overall, his work aims to develop more efficient architectural support for modern AI inference workloads.
+His research focuses on efficient AI acceleration, particularly on the co-design of algorithms and hardware for Large Language Models (LLMs) and Graph Neural Networks (GNNs). He also works on model compression techniques such as quantization and pruning, which complement his system level designs by reducing computational and memory demands. Overall, his work aims to develop more efficient architectural support for modern AI inference workloads.
 
 
 <!-- 
@@ -33,7 +33,10 @@ His research focuses on efficient AI acceleration, particularly on the co design
 *International Symposium on High-Performance Computer Architecture (HPCA 2025)*
 - **Towards High-Performance Graph Processing: From a Hardware/Software Co-Design Perspective**<br>
 <u>Xiaofei Liao, Wenju Zhao</u>, Hai Jin, Pengcheng Yao, Yu Huang, Qinggang Wang, Jin Zhao, Long Zheng, Yu Zhang, Zhiyuan Shao<br>
-Journal of Computer Science and Technology (JCST 2024, <span style="color:red">Cover Article</span>)
+*Journal of Computer Science and Technology (JCST 2024, <span style="color:red">Cover Article</span>)*
+- **A High-Efficiency 3D-Stacked Accelerator for Deep Graph Neural Network Inference**<br>
+Zhongtian Long, Yu Zhang, Yutao Fu, Qiyuan Niu, Shunsen Lv, Jiaqi Zhai, <u>Wenju Zhao</u>, Yingqi Zhao, Hai Jin<br>
+*SCIENTIA SINICA Informationis (SSI 2026, Accept)*
 - **PRAGA: A Priority-Aware Hardware/Software Co-design for High-Throughput Graph Processing Acceleration**<br>
 Long Zheng, Bing Zhu, Pengcheng Yao, Yuhang Zhou, Chengao Pan, <u>Wenju Zhao</u>, Xiaofei Liao, Hai Jin, and Jingling Xue<br>
 *ACM Transactions on Architecture and Code Optimization (TACO 2025)*
