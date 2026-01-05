@@ -36,7 +36,7 @@ His research focuses on efficient AI acceleration, particularly on the co-design
 *Journal of Computer Science and Technology (JCST 2024, <span style="color:red">Cover Article</span>)*
 - **A High-Efficiency 3D-Stacked Accelerator for Deep Graph Neural Network Inference**<br>
 Zhongtian Long, Yu Zhang, Yutao Fu, Qiyuan Niu, Shunsen Lv, Jiaqi Zhai, <u>Wenju Zhao</u>, Yingqi Zhao, Hai Jin<br>
-*Scientia Sinica Informationis (SSI 2026, Accept)*
+*Scientia Sinica Informationis (SSI 2026)*
 - **PRAGA: A Priority-Aware Hardware/Software Co-design for High-Throughput Graph Processing Acceleration**<br>
 Long Zheng, Bing Zhu, Pengcheng Yao, Yuhang Zhou, Chengao Pan, <u>Wenju Zhao</u>, Xiaofei Liao, Hai Jin, and Jingling Xue<br>
 *ACM Transactions on Architecture and Code Optimization (TACO 2025)*
