@@ -36,7 +36,7 @@ His research focuses on efficient AI acceleration, particularly on the co-design
 *Journal of Computer Science and Technology (JCST 2024, <span style="color:red">Cover Article</span>)*
 - **A High-Efficiency 3D-Stacked Accelerator for Deep Graph Neural Network Inference**<br>
 Zhongtian Long, Yu Zhang, Yutao Fu, Qiyuan Niu, Shunsen Lv, Jiaqi Zhai, <u>Wenju Zhao</u>, Yingqi Zhao, Hai Jin<br>
-*SCIENTIA SINICA Informationis (SSI 2026, Accept)*
+*Scientia Sinica Informationis (SSI 2026, Accept)*
 - **PRAGA: A Priority-Aware Hardware/Software Co-design for High-Throughput Graph Processing Acceleration**<br>
 Long Zheng, Bing Zhu, Pengcheng Yao, Yuhang Zhou, Chengao Pan, <u>Wenju Zhao</u>, Xiaofei Liao, Hai Jin, and Jingling Xue<br>
 *ACM Transactions on Architecture and Code Optimization (TACO 2025)*
@@ -65,9 +65,9 @@ Long Zheng, Bing Zhu, Pengcheng Yao, Yuhang Zhou, Chengao Pan, <u>Wenju Zhao</u>
 - ***2021:*** China Undergraduate Mathematical Contest in Modeling – Second Prize (Top 1.83%)
 
 # 📖 Educations
-- ***2022.06 – 2027.06 (expected)*** 
+- ***2022.06 – 2027.06 (expected):*** 
   PhD Candidate in Computer Science, Huazhong University of Science and Technology; Supervised by Prof. Xiaofei Liao; GPA: 3.77/4; Rank: 1/11
-- ***2018.09 – 2022.06***
+- ***2018.09 – 2022.06:***
   Bachelor of Engineering in Data Science and Big Data Technology, Wuhan University of Technology; GPA: 4.317/5; Rank: 1/33
 
 <span class="anchor" id="academic-achievements"></span>
