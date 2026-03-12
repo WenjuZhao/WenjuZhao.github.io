@@ -37,13 +37,13 @@ His research focuses on efficient AI acceleration, particularly on the co-design
 *International Symposium on High-Performance Computer Architecture (CCF A, Top Tier Conference in Computer Architecture, HPCA 2025)*
 - **Towards High-Performance Graph Processing: From a Hardware/Software Co-Design Perspective**<br>
 **<u>Xiaofei Liao, Wenju Zhao</u>**, Hai Jin, Pengcheng Yao, Yu Huang, Qinggang Wang, Jin Zhao, Long Zheng, Yu Zhang, Zhiyuan Shao<br>
-*Journal of Computer Science and Technology (CCF B, <span style="color:red">Cover Article</span>, JCST 2024)*
+*Journal of Computer Science and Technology (CCF B Journal, <span style="color:red">Cover Article</span>, JCST 2024)*
 - **A High-Efficiency 3D-Stacked Accelerator for Deep Graph Neural Network Inference**<br>
 Zhongtian Long, Yu Zhang, Yutao Fu, Qiyuan Niu, Shunsen Lv, Jiaqi Zhai, **<u>Wenju Zhao</u>**, Yingqi Zhao, Hai Jin<br>
-*Scientia Sinica Informationis (CCF-T1, SSI 2026)*
+*Scientia Sinica Informationis (CCF-T1 Journal, SSI 2026)*
 - **PRAGA: A Priority-Aware Hardware/Software Co-design for High-Throughput Graph Processing Acceleration**<br>
 Long Zheng, Bing Zhu, Pengcheng Yao, Yuhang Zhou, Chengao Pan, **<u>Wenju Zhao</u>**, Xiaofei Liao, Hai Jin, and Jingling Xue<br>
-*ACM Transactions on Architecture and Code Optimization (CCF-A Jornal, TACO 2025)*
+*ACM Transactions on Architecture and Code Optimization (CCF-A Journal, TACO 2025)*
 
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
