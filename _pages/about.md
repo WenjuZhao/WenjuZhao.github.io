@@ -29,20 +29,20 @@ His research focuses on efficient AI acceleration, particularly on the co-design
 
 # 📝 Publications 
 - **FuseDot: A Multiplication-Fused Dot Product Accelerator for Efficient LLM Inference**<br>
-<u>Wenju Zhao</u>, Jianhui Yue, Pengcheng Yao, Yujia Cui, Qinggang Wang, Yufei Sun, Jiaqi Zhai, Hai Jin, Xiaofei Liao
+**<u>Wenju Zhao</u>**, Jianhui Yue, Pengcheng Yao, Yujia Cui, Qinggang Wang, Yufei Sun, Jiaqi Zhai, Hai Jin, Xiaofei Liao
 <br>
 *The Chips to Systems Conference (DAC 2026)*
 - **MeHyper: Accelerating Hypergraph Neural Networks by Exploring Implicit Dataflows**<br>
-<u>*Wenju Zhao*</u>, Pengcheng Yao, Dan Chen, Long Zheng, Xiaofei Liao, Qinggang Wang, Shaobo Ma, Yu Li, Haifeng Liu, Wenjing Xiao, Yufei Sun, Bing Zhu, Hai Jin, Jingling Xue<br>
+**<u>*Wenju Zhao*</u>**, Pengcheng Yao, Dan Chen, Long Zheng, Xiaofei Liao, Qinggang Wang, Shaobo Ma, Yu Li, Haifeng Liu, Wenjing Xiao, Yufei Sun, Bing Zhu, Hai Jin, Jingling Xue<br>
 *International Symposium on High-Performance Computer Architecture (HPCA 2025)*
 - **Towards High-Performance Graph Processing: From a Hardware/Software Co-Design Perspective**<br>
-<u>Xiaofei Liao, Wenju Zhao</u>, Hai Jin, Pengcheng Yao, Yu Huang, Qinggang Wang, Jin Zhao, Long Zheng, Yu Zhang, Zhiyuan Shao<br>
+**<u>Xiaofei Liao, Wenju Zhao</u>**, Hai Jin, Pengcheng Yao, Yu Huang, Qinggang Wang, Jin Zhao, Long Zheng, Yu Zhang, Zhiyuan Shao<br>
 *Journal of Computer Science and Technology (JCST 2024, <span style="color:red">Cover Article</span>)*
 - **A High-Efficiency 3D-Stacked Accelerator for Deep Graph Neural Network Inference**<br>
-Zhongtian Long, Yu Zhang, Yutao Fu, Qiyuan Niu, Shunsen Lv, Jiaqi Zhai, <u>Wenju Zhao</u>, Yingqi Zhao, Hai Jin<br>
+Zhongtian Long, Yu Zhang, Yutao Fu, Qiyuan Niu, Shunsen Lv, Jiaqi Zhai, **<u>Wenju Zhao</u>**, Yingqi Zhao, Hai Jin<br>
 *Scientia Sinica Informationis (SSI 2026)*
 - **PRAGA: A Priority-Aware Hardware/Software Co-design for High-Throughput Graph Processing Acceleration**<br>
-Long Zheng, Bing Zhu, Pengcheng Yao, Yuhang Zhou, Chengao Pan, <u>Wenju Zhao</u>, Xiaofei Liao, Hai Jin, and Jingling Xue<br>
+Long Zheng, Bing Zhu, Pengcheng Yao, Yuhang Zhou, Chengao Pan, **<u>Wenju Zhao</u>**, Xiaofei Liao, Hai Jin, and Jingling Xue<br>
 *ACM Transactions on Architecture and Code Optimization (TACO 2025)*
 
 <!-- 
