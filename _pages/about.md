@@ -31,13 +31,13 @@ His research focuses on efficient AI acceleration, particularly on the co-design
 - **FuseDot: A Multiplication-Fused Dot Product Accelerator for Efficient LLM Inference**<br>
 **<u>Wenju Zhao</u>**, Jianhui Yue, Pengcheng Yao, Yujia Cui, Qinggang Wang, Yufei Sun, Jiaqi Zhai, Hai Jin, Xiaofei Liao
 <br>
-*The Chips to Systems Conference (CCF A, Top Tier Conference in EDA, DAC 2026)*
+*The Chips to Systems Conference (CCF-A, Top Tier Conference in EDA, DAC 2026)*
 - **MeHyper: Accelerating Hypergraph Neural Networks by Exploring Implicit Dataflows**<br>
 **<u>Wenju Zhao</u>**, Pengcheng Yao, Dan Chen, Long Zheng, Xiaofei Liao, Qinggang Wang, Shaobo Ma, Yu Li, Haifeng Liu, Wenjing Xiao, Yufei Sun, Bing Zhu, Hai Jin, Jingling Xue<br>
-*International Symposium on High-Performance Computer Architecture (CCF A, Top Tier Conference in Computer Architecture, HPCA 2025)*
+*International Symposium on High-Performance Computer Architecture (CCF-A, Top Tier Conference in Computer Architecture, HPCA 2025)*
 - **Towards High-Performance Graph Processing: From a Hardware/Software Co-Design Perspective**<br>
 **<u>Xiaofei Liao, Wenju Zhao</u>**, Hai Jin, Pengcheng Yao, Yu Huang, Qinggang Wang, Jin Zhao, Long Zheng, Yu Zhang, Zhiyuan Shao<br>
-*Journal of Computer Science and Technology (CCF B Journal, <span style="color:red">Cover Article</span>, JCST 2024)*
+*Journal of Computer Science and Technology (CCF-B Journal, <span style="color:red">Cover Article</span>, JCST 2024)*
 - **A High-Efficiency 3D-Stacked Accelerator for Deep Graph Neural Network Inference**<br>
 Zhongtian Long, Yu Zhang, Yutao Fu, Qiyuan Niu, Shunsen Lv, Jiaqi Zhai, **<u>Wenju Zhao</u>**, Yingqi Zhao, Hai Jin<br>
 *Scientia Sinica Informationis (CCF-T1 Journal, SSI 2026)*
