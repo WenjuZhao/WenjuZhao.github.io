@@ -30,8 +30,8 @@ His research focuses on efficient AI acceleration, particularly on the co-design
 # 📝 Publications 
 
 
-- **ParetoES: Hardware-Accelerated Sparse EmbeddingSimilarity via Pareto-Optimal Pruning**<br>
-**<u>Jiaqi Zhai</u>**, Xuanhua Shi, Wenju Zhao, Kaiyi Huang, Chencheng Ye, Shunsen Lv, Zhongtian Long, Bingsheng He, Hai Jin
+- **ParetoES: Hardware-Accelerated Sparse Embedding Similarity via Pareto-Optimal Pruning**<br>
+Jiaqi Zhai, Xuanhua Shi, **<u>Wenju Zhao</u>**, Kaiyi Huang, Chencheng Ye, Shunsen Lv, Zhongtian Long, Bingsheng He, Hai Jin
 <br>
 *The International Symposium on Computer Architecture (CCF-A, Top Tier Conference in Computer Architecture, ISCA 2026)*
 - **FuseDot: A Multiplication-Fused Dot Product Accelerator for Efficient LLM Inference**<br>
