@@ -30,26 +30,26 @@ His research focuses on efficient AI acceleration, particularly on the co-design
 # 📝 Publications 
 
 
-- **ParetoES: Hardware-Accelerated Sparse Embedding Similarity via Pareto-Optimal Pruning**<br>
+- **[ISCA 2026] ParetoES: Hardware-Accelerated Sparse Embedding Similarity via Pareto-Optimal Pruning**<br>
 Jiaqi Zhai, Xuanhua Shi, **<u>Wenju Zhao</u>**, Kaiyi Huang, Chencheng Ye, Shunsen Lv, Zhongtian Long, Bingsheng He, Hai Jin
 <br>
-*The International Symposium on Computer Architecture (CCF-A, Top Tier Conference in Computer Architecture, ISCA 2026)*
-- **FuseDot: A Multiplication-Fused Dot Product Accelerator for Efficient LLM Inference**<br>
+*The International Symposium on Computer Architecture (CCF-A, Top Tier Conference in Computer Architecture)*
+- **[DAC 2026] FuseDot: A Multiplication-Fused Dot Product Accelerator for Efficient LLM Inference**<br>
 **<u>Wenju Zhao</u>**, Jianhui Yue, Pengcheng Yao, Yujia Cui, Qinggang Wang, Yufei Sun, Jiaqi Zhai, Hai Jin, Xiaofei Liao
 <br>
-*The Chips to Systems Conference (CCF-A, Top Tier Conference in EDA, DAC 2026)*
-- **A High-Efficiency 3D-Stacked Accelerator for Deep Graph Neural Network Inference**<br>
+*The Chips to Systems Conference (CCF-A, Top Tier Conference in EDA)*
+- **[SSI 2026] A High-Efficiency 3D-Stacked Accelerator for Deep Graph Neural Network Inference**<br>
 Zhongtian Long, Yu Zhang, Yutao Fu, Qiyuan Niu, Shunsen Lv, Jiaqi Zhai, **<u>Wenju Zhao</u>**, Yingqi Zhao, Hai Jin<br>
-*Scientia Sinica Informationis (CCF-T1 Journal, SSI 2026)*
-- **MeHyper: Accelerating Hypergraph Neural Networks by Exploring Implicit Dataflows**<br>
+*Scientia Sinica Informationis (CCF-T1 Journal)*
+- **[HPCA 2025] MeHyper: Accelerating Hypergraph Neural Networks by Exploring Implicit Dataflows**<br>
 **<u>Wenju Zhao</u>**, Pengcheng Yao, Dan Chen, Long Zheng, Xiaofei Liao, Qinggang Wang, Shaobo Ma, Yu Li, Haifeng Liu, Wenjing Xiao, Yufei Sun, Bing Zhu, Hai Jin, Jingling Xue<br>
-*The International Symposium on High-Performance Computer Architecture (CCF-A, Top Tier Conference in Computer Architecture, HPCA 2025)*
-- **PRAGA: A Priority-Aware Hardware/Software Co-design for High-Throughput Graph Processing Acceleration**<br>
+*The International Symposium on High-Performance Computer Architecture (CCF-A, Top Tier Conference in Computer Architecture)*
+- **[TACO 2025] PRAGA: A Priority-Aware Hardware/Software Co-design for High-Throughput Graph Processing Acceleration**<br>
 Long Zheng, Bing Zhu, Pengcheng Yao, Yuhang Zhou, Chengao Pan, **<u>Wenju Zhao</u>**, Xiaofei Liao, Hai Jin, and Jingling Xue<br>
-*ACM Transactions on Architecture and Code Optimization (CCF-A Journal, TACO 2025)*
+*ACM Transactions on Architecture and Code Optimization (CCF-A Journal)*
 - **Towards High-Performance Graph Processing: From a Hardware/Software Co-Design Perspective**<br>
-**<u>Xiaofei Liao, Wenju Zhao</u>**, Hai Jin, Pengcheng Yao, Yu Huang, Qinggang Wang, Jin Zhao, Long Zheng, Yu Zhang, Zhiyuan Shao<br>
-*Journal of Computer Science and Technology (CCF-B Journal, <span style="color:red">Cover Article</span>, JCST 2024)*
+**<u>[JCST 2024] Xiaofei Liao, Wenju Zhao</u>**, Hai Jin, Pengcheng Yao, Yu Huang, Qinggang Wang, Jin Zhao, Long Zheng, Yu Zhang, Zhiyuan Shao<br>
+*Journal of Computer Science and Technology (CCF-B Journal, <span style="color:red">Cover Article</span>)*
 
 
 
