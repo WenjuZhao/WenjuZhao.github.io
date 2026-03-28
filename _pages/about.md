@@ -43,7 +43,7 @@ Zhongtian Long, Yu Zhang, Yutao Fu, Qiyuan Niu, Shunsen Lv, Jiaqi Zhai, **<u>Wen
 *Scientia Sinica Informationis (CCF-T1 Journal, SSI 2026)*
 - **MeHyper: Accelerating Hypergraph Neural Networks by Exploring Implicit Dataflows**<br>
 **<u>Wenju Zhao</u>**, Pengcheng Yao, Dan Chen, Long Zheng, Xiaofei Liao, Qinggang Wang, Shaobo Ma, Yu Li, Haifeng Liu, Wenjing Xiao, Yufei Sun, Bing Zhu, Hai Jin, Jingling Xue<br>
-*International Symposium on High-Performance Computer Architecture (CCF-A, Top Tier Conference in Computer Architecture, HPCA 2025)*
+*The International Symposium on High-Performance Computer Architecture (CCF-A, Top Tier Conference in Computer Architecture, HPCA 2025)*
 - **PRAGA: A Priority-Aware Hardware/Software Co-design for High-Throughput Graph Processing Acceleration**<br>
 Long Zheng, Bing Zhu, Pengcheng Yao, Yuhang Zhou, Chengao Pan, **<u>Wenju Zhao</u>**, Xiaofei Liao, Hai Jin, and Jingling Xue<br>
 *ACM Transactions on Architecture and Code Optimization (CCF-A Journal, TACO 2025)*
