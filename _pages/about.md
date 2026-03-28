@@ -47,8 +47,8 @@ Zhongtian Long, Yu Zhang, Yutao Fu, Qiyuan Niu, Shunsen Lv, Jiaqi Zhai, **<u>Wen
 - **[TACO 2025] PRAGA: A Priority-Aware Hardware/Software Co-design for High-Throughput Graph Processing Acceleration**<br>
 Long Zheng, Bing Zhu, Pengcheng Yao, Yuhang Zhou, Chengao Pan, **<u>Wenju Zhao</u>**, Xiaofei Liao, Hai Jin, and Jingling Xue<br>
 *ACM Transactions on Architecture and Code Optimization (CCF-A Journal)*
-- **Towards High-Performance Graph Processing: From a Hardware/Software Co-Design Perspective**<br>
-**<u>[JCST 2024] Xiaofei Liao, Wenju Zhao</u>**, Hai Jin, Pengcheng Yao, Yu Huang, Qinggang Wang, Jin Zhao, Long Zheng, Yu Zhang, Zhiyuan Shao<br>
+- **[JCST 2024] Towards High-Performance Graph Processing: From a Hardware/Software Co-Design Perspective**<br>
+**<u>Xiaofei Liao, Wenju Zhao</u>**, Hai Jin, Pengcheng Yao, Yu Huang, Qinggang Wang, Jin Zhao, Long Zheng, Yu Zhang, Zhiyuan Shao<br>
 *Journal of Computer Science and Technology (CCF-B Journal, <span style="color:red">Cover Article</span>)*
 
 
