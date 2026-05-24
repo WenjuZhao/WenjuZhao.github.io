@@ -17,13 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Wenju Zhao is a fourth year PhD candidate in the School of Computer Science and Technology at Huazhong University of Science and Technology, advised by <a href="http://faculty.hust.edu.cn/xfliao/zh_CN/index.htm" target="_blank">Prof. Xiaofei Liao</a>. He conducts his research within the Key Laboratory of Services Computing Technology and System, Ministry of Education (CGCL), and is jointly co advised by <a href="https://scholar.google.com/citations?user=LjYkeCgAAAAJ&hl=zh-CN" target="_blank">Dr. Pengcheng Yao</a> and <a href="https://pages.mtu.edu/~jyue/" target="_blank">Prof. Jianhui Yue</a> (Michigan Technological University). Prior to his PhD, he received his Bachelor degree in Data Science and Big Data Technology from Wuhan University of Technology (2018–2022).
+Wenju Zhao is a fourth-year PhD candidate in the School of Computer Science and Technology at Huazhong University of Science and Technology, advised by <a href="http://faculty.hust.edu.cn/xfliao/zh_CN/index.htm" target="_blank">Prof. Xiaofei Liao</a>. He conducts his research within the Key Laboratory of Services Computing Technology and System, Ministry of Education (CGCL), and is jointly advised by <a href="https://scholar.google.com/citations?user=LjYkeCgAAAAJ&hl=zh-CN" target="_blank">Dr. Pengcheng Yao</a> and <a href="https://pages.mtu.edu/~jyue/" target="_blank">Prof. Jianhui Yue</a> (Michigan Technological University). Prior to his PhD, he received his bachelor's degree in Data Science and Big Data Technology from Wuhan University of Technology (2018–2022).
 
-His research focuses on efficient AI acceleration, particularly on the co-design of algorithms and hardware for Large Language Models (LLMs) and Graph Neural Networks (GNNs). He also works on model compression techniques such as quantization and pruning, which complement his system level designs by reducing computational and memory demands. Overall, his work aims to develop more efficient architectural support for modern AI inference workloads.
+His research focuses on efficient AI acceleration, particularly on the co-design of algorithms and hardware for Large Language Models (LLMs) and Graph Neural Networks (GNNs). He also works on model compression techniques such as quantization and pruning, which complement his system-level designs by reducing computational and memory demands. Overall, his work aims to develop more efficient architectural support for modern AI inference workloads.
+
+
+# 📖 Education
+- ***2026.08 – 2027.06:*** 
+  Visiting Scholar, School of Computing, National University of Singapore; Supervised by <a href="http://faculty.hust.edu.cn/xfliao/zh_CN/index.htm" target="_blank">Prof. Bingsheng He</a>; Working on machine learning acceleration.
+  
+- ***2022.06 – 2027.06 (expected):*** 
+  PhD Candidate in Computer Science, Huazhong University of Science and Technology; Supervised by <a href="http://faculty.hust.edu.cn/xfliao/zh_CN/index.htm" target="_blank">Prof. Xiaofei Liao</a>; GPA: 3.77/4; Rank: 1/11
+
+- ***2018.09 – 2022.06:***
+  Bachelor of Engineering in Data Science and Big Data Technology, Wuhan University of Technology; GPA: 4.317/5; Rank: 1/33
+
 
 # 📝 Publications 
-
-
 - **[ISCA 2026] ParetoES: Hardware-Accelerated Sparse Embedding Similarity via Pareto-Optimal Pruning**<br>
 Jiaqi Zhai, Xuanhua Shi, **<u>Wenju Zhao</u>**, Kaiyi Huang, Chencheng Ye, Shunsen Lv, Zhongtian Long, Bingsheng He, Hai Jin
 <br>
@@ -52,14 +62,6 @@ Long Zheng, Bing Zhu, Pengcheng Yao, Yuhang Zhou, Chengao Pan, **<u>Wenju Zhao</
 - ***2021:*** Outstanding Scholarship, Wuhan University of Technology (highest honor of the university, Top 0.1%)
 - ***2021:*** Mathematical Contest in Modeling – Meritorious Winner (Top 6.45%)
 - ***2021:*** China Undergraduate Mathematical Contest in Modeling – Second Prize (Top 1.83%)
-
-# 📖 Educations
-- ***2022.06 – 2027.06 (expected):*** 
-  PhD Candidate in Computer Science, Huazhong University of Science and Technology; Supervised by Prof. Xiaofei Liao; GPA: 3.77/4; Rank: 1/11
-- ***2026.08 – 2027.06:*** 
-  Visiting Scholar, School of Computing, National University of Singapore; Supervised by Prof. Bingsheng He; Work on machine learning acceleration.
-- ***2018.09 – 2022.06:***
-  Bachelor of Engineering in Data Science and Big Data Technology, Wuhan University of Technology; GPA: 4.317/5; Rank: 1/33
 
 <span class="anchor" id="academic-achievements"></span>
 
