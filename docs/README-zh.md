@@ -1,18 +1,16 @@
 
 <h1 align="center">
-AcadHomepage
+Wenju Zhao 个人主页
 </h1>
 
 <div align="center">
 
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [English README](../README.md) 
+[![GitHub 仓库](https://img.shields.io/badge/GitHub-WenjuZhao.github.io-24292f)](https://github.com/WenjuZhao/WenjuZhao.github.io)
+[![License](https://img.shields.io/github/license/WenjuZhao/WenjuZhao.github.io)](https://github.com/WenjuZhao/WenjuZhao.github.io/blob/master/LICENSE)  | [English README](../README.md)
 
 </div>
 
-<p align="center">一个现代、响应式的个人学术主页</p>
+<p align="center">Wenju Zhao 的学术个人主页</p>
 
 
 <p align="center">
@@ -21,9 +19,9 @@ AcadHomepage
     <br>
 </p>
 
-一些例子：
-- [样例页面](https://rayeren.github.io/acad-homepage.github.io/)
-- [作者的个人主页](https://rayeren.github.io/)
+## 概览
+
+本仓库用于搭建 Wenju Zhao 的个人学术主页。
 
 ## 主要特点
 - **自动更新谷歌学术引用**: 借助谷歌学术爬虫和github action功能，本仓库可以自动更新作者的引用数和论文引用数。
@@ -34,7 +32,7 @@ AcadHomepage
 
 ## 快速开始
 
-1. Fork本仓库到`USERNAME/USERNAME.github.io`，其中`USERNAME`是你的github用户名。
+1. Fork 或克隆本仓库，并将其发布为 `USERNAME.github.io`。
 1. 配置谷歌学术引用爬虫：
     1. 在你的谷歌学术引用页面的url里找到你的谷歌学术ID：例如，在url https://scholar.google.com/citations?user=SCHOLAR_ID 中，`SCHOLAR_ID`部分即为你的谷歌学术ID。
     1. 在github本仓库页面的`Settings -> Secrets -> Actions -> New repository secret`中，添加`GOOGLE_SCHOLAR_ID`变量：`name=GOOGLE_SCHOLAR_ID`、`value=SCHOLAR_ID`。
@@ -56,12 +54,10 @@ AcadHomepage
 
 1. 使用`git clone`将本项目克隆到本地。
 1. 安装Jekyll的构建环境，包括`Ruby`、`RubyGems`、`GCC`和`Make`。可参考[该教程](https://jekyllrb.com/docs/installation/#requirements)。
-1. 运行 `bash run_server.sh` 来启动Jekyll实时重载服务器。
+1. 运行 `bash run_server.sh` 来启动 Jekyll 实时重载服务器。
 1. 在浏览器里打开 [http://127.0.0.1:4000](http://127.0.0.1:4000)。如果你修改了网页的源码，服务器会自动重新编译并刷新页面。
 1. 当你修改完毕你的页面以后, 使用`git`命令，`commit`你的改动并`push`到你的github仓库中。
 
-# Acknowledges
+# 致谢
 
-- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
-- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
-- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+- 本站使用了 Font Awesome 图标，其授权为 SIL OFL 1.1 和 MIT License。
