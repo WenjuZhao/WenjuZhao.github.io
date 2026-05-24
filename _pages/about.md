@@ -22,6 +22,8 @@ Wenju Zhao (赵文举) is a fourth-year PhD candidate in the School of Computer 
 His research focuses on efficient AI acceleration, particularly on the co-design of algorithms and hardware for Large Language Models (LLMs) and Graph Neural Networks (GNNs). He also works on model compression techniques such as quantization and pruning, which complement his system-level designs by reducing computational and memory demands. Overall, his work aims to develop more efficient architectural support for modern AI inference workloads.
 
 
+<span class="anchor" id="educations"></span>
+
 # 📖 Education
 - ***2026.08 – 2027.06:*** 
   Visiting Scholar, School of Computing, National University of Singapore; Supervised by <a href="https://www.comp.nus.edu.sg/~hebs/" target="_blank">Prof. Bingsheng He</a>; Working on machine learning acceleration.
