@@ -56,6 +56,8 @@ Long Zheng, Bing Zhu, Pengcheng Yao, Yuhang Zhou, Chengao Pan, **<u>Wenju Zhao</
 # 📖 Educations
 - ***2022.06 – 2027.06 (expected):*** 
   PhD Candidate in Computer Science, Huazhong University of Science and Technology; Supervised by Prof. Xiaofei Liao; GPA: 3.77/4; Rank: 1/11
+- ***2026.08 – 2027.06:*** 
+  Visiting Scholar, School of Computing, National University of Singapore; Supervised by Prof. Bingsheng He; Work on machine learning acceleration.
 - ***2018.09 – 2022.06:***
   Bachelor of Engineering in Data Science and Big Data Technology, Wuhan University of Technology; GPA: 4.317/5; Rank: 1/33
 
