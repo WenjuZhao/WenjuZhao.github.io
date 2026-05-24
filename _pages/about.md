@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Wenju Zhao is a fourth-year PhD candidate in the School of Computer Science and Technology at Huazhong University of Science and Technology, advised by <a href="http://faculty.hust.edu.cn/xfliao/zh_CN/index.htm" target="_blank">Prof. Xiaofei Liao</a>. He conducts his research within the Key Laboratory of Services Computing Technology and System, Ministry of Education (CGCL). Prior to his PhD, he received his bachelor's degree in Data Science and Big Data Technology from Wuhan University of Technology (2018–2022).
+Wenju Zhao (赵文举) is a fourth-year PhD candidate in the School of Computer Science and Technology at Huazhong University of Science and Technology, advised by <a href="http://faculty.hust.edu.cn/xfliao/zh_CN/index.htm" target="_blank">Prof. Xiaofei Liao</a>. He conducts his research within the Key Laboratory of Services Computing Technology and System, Ministry of Education (CGCL). Prior to his PhD, he received his bachelor's degree in Data Science and Big Data Technology from Wuhan University of Technology (2018–2022).
 
 His research focuses on efficient AI acceleration, particularly on the co-design of algorithms and hardware for Large Language Models (LLMs) and Graph Neural Networks (GNNs). He also works on model compression techniques such as quantization and pruning, which complement his system-level designs by reducing computational and memory demands. Overall, his work aims to develop more efficient architectural support for modern AI inference workloads.
 
