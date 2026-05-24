@@ -41,17 +41,17 @@ His research focuses on efficient AI acceleration, particularly on the co-design
 - **[ISCA 2026] ParetoES: Hardware-Accelerated Sparse Embedding Similarity via Pareto-Optimal Pruning**<br>
 Jiaqi Zhai, Xuanhua Shi, **<u>Wenju Zhao</u>**, Kaiyi Huang, Chencheng Ye, Shunsen Lv, Zhongtian Long, Bingsheng He, Hai Jin
 <br>
-*The International Symposium on Computer Architecture (CCF-A, Top Tier Conference in Computer Architecture)*
+*The International Symposium on Computer Architecture (CCF-A Conference, Top Tier Conference in Computer Architecture)*
 - **[DAC 2026] FuseDot: A Multiplication-Fused Dot Product Accelerator for Efficient LLM Inference**<br>
 **<u>Wenju Zhao</u>**, Jianhui Yue, Pengcheng Yao, Yujia Cui, Qinggang Wang, Yufei Sun, Jiaqi Zhai, Hai Jin, Xiaofei Liao
 <br>
-*The Chips to Systems Conference (CCF-A, Top Tier Conference in EDA)*
+*The Chips to Systems Conference (CCF-A Conference, Top Tier Conference in EDA)*
 - **[SSI 2026] A High-Efficiency 3D-Stacked Accelerator for Deep Graph Neural Network Inference**<br>
 Zhongtian Long, Yu Zhang, Yutao Fu, Qiyuan Niu, Shunsen Lv, Jiaqi Zhai, **<u>Wenju Zhao</u>**, Yingqi Zhao, Hai Jin<br>
 *Scientia Sinica Informationis (CCF-T1 Journal)*
 - **[HPCA 2025] MeHyper: Accelerating Hypergraph Neural Networks by Exploring Implicit Dataflows**<br>
 **<u>Wenju Zhao</u>**, Pengcheng Yao, Dan Chen, Long Zheng, Xiaofei Liao, Qinggang Wang, Shaobo Ma, Yu Li, Haifeng Liu, Wenjing Xiao, Yufei Sun, Bing Zhu, Hai Jin, Jingling Xue<br>
-*The International Symposium on High-Performance Computer Architecture (CCF-A, Top Tier Conference in Computer Architecture)*
+*The International Symposium on High-Performance Computer Architecture (CCF-A Conference, Top Tier Conference in Computer Architecture)*
 - **[TACO 2025] PRAGA: A Priority-Aware Hardware/Software Co-design for High-Throughput Graph Processing Acceleration**<br>
 Long Zheng, Bing Zhu, Pengcheng Yao, Yuhang Zhou, Chengao Pan, **<u>Wenju Zhao</u>**, Xiaofei Liao, Hai Jin, and Jingling Xue<br>
 *ACM Transactions on Architecture and Code Optimization (CCF-A Journal)*
@@ -66,8 +66,8 @@ Long Zheng, Bing Zhu, Pengcheng Yao, Yuhang Zhou, Chengao Pan, **<u>Wenju Zhao</
 - ***2024:*** Science and Technology Innovation Scholarship, Huazhong University of Science and Technology
 - ***2023, 2022:*** First Class Doctoral Scholarship, Huazhong University of Science and Technology
 - ***2021:*** Outstanding Scholarship, Wuhan University of Technology (highest honor of the university, Top 0.1%)
-- ***2021:*** Mathematical Contest in Modeling – Meritorious Winner (Top 6.45%)
-- ***2021:*** China Undergraduate Mathematical Contest in Modeling – Second Prize (Top 1.83%)
+- ***2021:*** Mathematical Contest in Modeling – Meritorious Winner
+- ***2021:*** China Undergraduate Mathematical Contest in Modeling – Second Prize
 
 <span class="anchor" id="academic-achievements"></span>
 
