@@ -35,7 +35,9 @@ His research focuses on efficient AI acceleration, particularly on the co-design
   Bachelor of Engineering in Data Science and Big Data Technology, Wuhan University of Technology; GPA: 4.317/5; Rank: 1/33
 
 
-# 📝 Publications 
+<span class="anchor" id="publications"></span>
+
+# 📝 Publications
 - **[ISCA 2026] ParetoES: Hardware-Accelerated Sparse Embedding Similarity via Pareto-Optimal Pruning**<br>
 Jiaqi Zhai, Xuanhua Shi, **<u>Wenju Zhao</u>**, Kaiyi Huang, Chencheng Ye, Shunsen Lv, Zhongtian Long, Bingsheng He, Hai Jin
 <br>
@@ -56,6 +58,8 @@ Long Zheng, Bing Zhu, Pengcheng Yao, Yuhang Zhou, Chengao Pan, **<u>Wenju Zhao</
 - **[JCST 2024] Towards High-Performance Graph Processing: From a Hardware/Software Co-Design Perspective**<br>
 **<u>Xiaofei Liao, Wenju Zhao</u>**, Hai Jin, Pengcheng Yao, Yu Huang, Qinggang Wang, Jin Zhao, Long Zheng, Yu Zhang, Zhiyuan Shao<br>
 *Journal of Computer Science and Technology (CCF-B Journal, <span style="color:red">Cover Article</span>)*
+
+<span class="anchor" id="honors-and-awards"></span>
 
 # 🎖 Honors and Awards
 - ***2024, 2020:*** National Scholarship, Ministry of Education, China
