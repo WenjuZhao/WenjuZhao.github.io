@@ -39,7 +39,7 @@ His research focuses on efficient AI acceleration, particularly on the co-design
 
 # 📝 Publications
 - **[MICRO 2026] SkewQ: Skewness-Aware Cross-Layer Quantization for Efficient LLM Inference via Software-Hardware Co-Design**<br>
-Wenju Zhao, Jianhui Yue, Pengcheng Yao, Jiaqi Zhai, Yundong Zhang, Yu Huang, Shunsen Lv, Bing Zhu, Zhongtian Long, Chencheng Ye, Lihong Gu, Jingling Xue, Hai Jin, Xiaofei Liao
+**<u>Wenju Zhao</u>**, Jianhui Yue, Pengcheng Yao, Jiaqi Zhai, Yundong Zhang, Yu Huang, Shunsen Lv, Bing Zhu, Zhongtian Long, Chencheng Ye, Lihong Gu, Jingling Xue, Hai Jin, Xiaofei Liao
 <br>
 *The International Symposium on Microarchitecture (CCF-A Conference, Top Tier Conference in Computer Architecture)*
 - **[MICRO 2026] RAIL: A Reconfigurable Spatial Accelerator for Linear-Time Sequence Model Inference**<br>
