@@ -80,7 +80,6 @@ Long Zheng, Bing Zhu, Pengcheng Yao, Yuhang Zhou, Chengao Pan, **<u>Wenju Zhao</
 <span class="anchor" id="academic-achievements"></span>
 
 # ⭐ Academic Achievements
-, 4th CS Academic Annual Conference, HUST
 - ***2026.06:*** **Best Paper Award**, FuseDot: A Multiplication-Fused Dot Product Accelerator for Efficient LLM Inference. 4th CS Academic Annual Conference, HUST, China.
 - ***2025.09:*** **Invited Talks**, MeHyper: Accelerating Hypergraph Neural Networks by Exploring Implicit Dataflows. Session 3: GPU and Domain Specific Accelerator Architectures, CCFSys 2025, Beijing, China.
 - ***2024:*** **Cover Article**, Journal of Computer Science and Technology
