@@ -67,16 +67,6 @@ Long Zheng, Bing Zhu, Pengcheng Yao, Yuhang Zhou, Chengao Pan, **<u>Wenju Zhao</
 **<u>Xiaofei Liao, Wenju Zhao</u>**, Hai Jin, Pengcheng Yao, Yu Huang, Qinggang Wang, Jin Zhao, Long Zheng, Yu Zhang, Zhiyuan Shao<br>
 *Journal of Computer Science and Technology (CCF-B Journal, <span style="color:red">Cover Article</span>)*
 
-<span class="anchor" id="honors-and-awards"></span>
-
-# 🎖 Honors and Awards
-- ***2024, 2020:*** National Scholarship, Ministry of Education, China
-- ***2024:*** Science and Technology Innovation Scholarship, Huazhong University of Science and Technology
-- ***2023, 2022:*** First Class Doctoral Scholarship, Huazhong University of Science and Technology
-- ***2021:*** Outstanding Scholarship, Wuhan University of Technology (highest honor of the university, Top 0.1%)
-- ***2021:*** Mathematical Contest in Modeling – Meritorious Winner
-- ***2021:*** China Undergraduate Mathematical Contest in Modeling – Second Prize
-
 <span class="anchor" id="academic-achievements"></span>
 
 # ⭐ Academic Achievements
@@ -85,4 +75,15 @@ Long Zheng, Bing Zhu, Pengcheng Yao, Yuhang Zhou, Chengao Pan, **<u>Wenju Zhao</
 - ***2024:*** **Cover Article**, Journal of Computer Science and Technology
 (Work on high performance graph processing).
 - ***2022:*** **Outstanding Undergraduate Thesis**, Parallel Optimization of Sparse Triangular Matrix Solution Based on Shared Memory, Wuhan University of Technology.
+
+<span class="anchor" id="honors-and-awards"></span>
+
+# 🎖 Honors and Services
+- ***2026:*** ISCA'26 Artifact Evaluation Committee
+- ***2024, 2020:*** National Scholarship, Ministry of Education, China
+- ***2024:*** Science and Technology Innovation Scholarship, Huazhong University of Science and Technology
+- ***2023, 2022:*** First Class Doctoral Scholarship, Huazhong University of Science and Technology
+- ***2021:*** Outstanding Scholarship, Wuhan University of Technology (highest honor of the university, Top 0.1%)
+- ***2021:*** Mathematical Contest in Modeling – Meritorious Winner
+- ***2021:*** China Undergraduate Mathematical Contest in Modeling – Second Prize
 
