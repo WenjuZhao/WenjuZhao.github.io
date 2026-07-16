@@ -38,6 +38,9 @@ His research focuses on efficient AI acceleration, particularly on the co-design
 <span class="anchor" id="publications"></span>
 
 # 📝 Publications
+- **[TCAD 2026] SpecTwin: Accelerating Tree-based Speculative Decoding via Differential Token Quantization**<br>
+Yufei Sun, Pengcheng Yao, Long Zheng, Yundong Zhang, Yu Huang, Qinggang Wang, Huize Li, **<u>Wenju Zhao</u>**, Bing Zhu, Haifeng Liu, Xiaofei Liao, and Hai Jin<br>
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (CCF-A Journal)*
 - **[MICRO 2026] SkewQ: Skewness-Aware Cross-Layer Quantization for Efficient LLM Inference via Software-Hardware Co-Design**<br>
 **<u>Wenju Zhao</u>**, Jianhui Yue, Pengcheng Yao, Jiaqi Zhai, Yundong Zhang, Yu Huang, Shunsen Lv, Bing Zhu, Zhongtian Long, Chencheng Ye, Lihong Gu, Jingling Xue, Hai Jin, Xiaofei Liao
 <br>
