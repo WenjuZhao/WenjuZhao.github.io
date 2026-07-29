@@ -37,23 +37,23 @@ His research focuses on efficient AI acceleration, particularly on the co-design
 
 <span class="anchor" id="publications"></span>
 
-# 📝 Publications (**<u>first author</u>**, **<u>co-first author*</u>**, **<u>student first author#</u>**)
+# 📝 Publications (**<u>first author</u>**, **<u>co-first author*</u>**, **<u>student first author<sup>#</sup></u>**)
 - **[TCAD 2026] HyperPIM: A Redundancy-Aware Heterogeneous PIM Accelerator for Hypergraph Neural Networks**<br>
 **<u>Zhongtian Long*, Wenju Zhao*, Mo Zou*</u>**, Hongrui Guo, Jin Zhao, Qiyuan Niu, Yutao Fu, Shunsen Lv, Zixiao Wang, Yuluo Guo, Yongwei Zhao, Yu Zhang, and Hai Jin<br>
 *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (CCF-A Journal)*
 - **[TCAD 2026] SpecTwin: Accelerating Tree-based Speculative Decoding via Differential Token Quantization**<br>
-Yufei Sun, Pengcheng Yao, Long Zheng, Yundong Zhang, Yu Huang, Qinggang Wang, Huize Li, **<u>Wenju Zhao</u>**, Bing Zhu, Haifeng Liu, Xiaofei Liao, and Hai Jin<br>
+Yufei Sun, Pengcheng Yao, Long Zheng, Yundong Zhang, Yu Huang, Qinggang Wang, Huize Li, Wenju Zhao, Bing Zhu, Haifeng Liu, Xiaofei Liao, and Hai Jin<br>
 *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (CCF-A Journal)*
 - **[MICRO 2026] SkewQ: Skewness-Aware Cross-Layer Quantization for Efficient LLM Inference via Software-Hardware Co-Design**<br>
 **<u>Wenju Zhao</u>**, Jianhui Yue, Pengcheng Yao, Jiaqi Zhai, Yundong Zhang, Yu Huang, Shunsen Lv, Bing Zhu, Zhongtian Long, Chencheng Ye, Lihong Gu, Jingling Xue, Hai Jin, Xiaofei Liao
 <br>
 *The International Symposium on Microarchitecture (CCF-A Conference, Top Tier Conference in Computer Architecture)*
 - **[MICRO 2026] RAIL: A Reconfigurable Spatial Accelerator for Linear-Time Sequence Model Inference**<br>
-Xinyu Zhu, Qinggang Wang, **<u>Wenju Zhao</u>**, Bing Zhu, Runze Wang, Long Zheng, Xiaofei Liao, Hai Jin, Jingling Xue
+Xinyu Zhu, Qinggang Wang, Wenju Zhao, Bing Zhu, Runze Wang, Long Zheng, Xiaofei Liao, Hai Jin, Jingling Xue
 <br>
 *The International Symposium on Microarchitecture (CCF-A Conference, Top Tier Conference in Computer Architecture)*
 - **[ISCA 2026] ParetoES: Hardware-Accelerated Sparse Embedding Similarity via Pareto-Optimal Pruning**<br>
-Jiaqi Zhai, Xuanhua Shi, **<u>Wenju Zhao</u>**, Kaiyi Huang, Chencheng Ye, Shunsen Lv, Zhongtian Long, Bingsheng He, Hai Jin
+Jiaqi Zhai, Xuanhua Shi, Wenju Zhao, Kaiyi Huang, Chencheng Ye, Shunsen Lv, Zhongtian Long, Bingsheng He, Hai Jin
 <br>
 *The International Symposium on Computer Architecture (CCF-A Conference, Top Tier Conference in Computer Architecture)*
 - **[DAC 2026] FuseDot: A Multiplication-Fused Dot Product Accelerator for Efficient LLM Inference**<br>
@@ -61,13 +61,13 @@ Jiaqi Zhai, Xuanhua Shi, **<u>Wenju Zhao</u>**, Kaiyi Huang, Chencheng Ye, Shuns
 <br>
 *The Chips to Systems Conference (CCF-A Conference, Top Tier Conference in EDA)*
 - **[SSI 2026] A High-Efficiency 3D-Stacked Accelerator for Deep Graph Neural Network Inference**<br>
-Zhongtian Long, Yu Zhang, Yutao Fu, Qiyuan Niu, Shunsen Lv, Jiaqi Zhai, **<u>Wenju Zhao</u>**, Yingqi Zhao, Hai Jin<br>
+Zhongtian Long, Yu Zhang, Yutao Fu, Qiyuan Niu, Shunsen Lv, Jiaqi Zhai, Wenju Zhao, Yingqi Zhao, Hai Jin<br>
 *Scientia Sinica Informationis (CCF-T1 Journal)*
 - **[HPCA 2025] MeHyper: Accelerating Hypergraph Neural Networks by Exploring Implicit Dataflows**<br>
 **<u>Wenju Zhao</u>**, Pengcheng Yao, Dan Chen, Long Zheng, Xiaofei Liao, Qinggang Wang, Shaobo Ma, Yu Li, Haifeng Liu, Wenjing Xiao, Yufei Sun, Bing Zhu, Hai Jin, Jingling Xue<br>
 *The International Symposium on High-Performance Computer Architecture (CCF-A Conference, Top Tier Conference in Computer Architecture)*
 - **[TACO 2025] PRAGA: A Priority-Aware Hardware/Software Co-design for High-Throughput Graph Processing Acceleration**<br>
-Long Zheng, Bing Zhu, Pengcheng Yao, Yuhang Zhou, Chengao Pan, **<u>Wenju Zhao</u>**, Xiaofei Liao, Hai Jin, and Jingling Xue<br>
+Long Zheng, Bing Zhu, Pengcheng Yao, Yuhang Zhou, Chengao Pan, Wenju Zhao, Xiaofei Liao, Hai Jin, and Jingling Xue<br>
 *ACM Transactions on Architecture and Code Optimization (CCF-A Journal)*
 - **[JCST 2024] Towards High-Performance Graph Processing: From a Hardware/Software Co-Design Perspective**<br>
 **<u>Xiaofei Liao, Wenju Zhao#</u>**, Hai Jin, Pengcheng Yao, Yu Huang, Qinggang Wang, Jin Zhao, Long Zheng, Yu Zhang, Zhiyuan Shao<br>
