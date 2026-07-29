@@ -37,9 +37,9 @@ His research focuses on efficient AI acceleration, particularly on the co-design
 
 <span class="anchor" id="publications"></span>
 
-# 📝 Publications
+# 📝 Publications (**<u>first author</u>**, **<u>co-first author*</u>**, **<u>student first author#</u>**)
 - **[TCAD 2026] HyperPIM: A Redundancy-Aware Heterogeneous PIM Accelerator for Hypergraph Neural Networks**<br>
-**<u>Zhongtian Long, Wenju Zhao, Mo Zou</u>**, Hongrui Guo, Jin Zhao, Qiyuan Niu, Yutao Fu, Shunsen Lv, Zixiao Wang, Yuluo Guo, Yongwei Zhao, Yu Zhang, and Hai Jin<br>
+**<u>Zhongtian Long*, Wenju Zhao*, Mo Zou*</u>**, Hongrui Guo, Jin Zhao, Qiyuan Niu, Yutao Fu, Shunsen Lv, Zixiao Wang, Yuluo Guo, Yongwei Zhao, Yu Zhang, and Hai Jin<br>
 *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (CCF-A Journal)*
 - **[TCAD 2026] SpecTwin: Accelerating Tree-based Speculative Decoding via Differential Token Quantization**<br>
 Yufei Sun, Pengcheng Yao, Long Zheng, Yundong Zhang, Yu Huang, Qinggang Wang, Huize Li, **<u>Wenju Zhao</u>**, Bing Zhu, Haifeng Liu, Xiaofei Liao, and Hai Jin<br>
@@ -70,7 +70,7 @@ Zhongtian Long, Yu Zhang, Yutao Fu, Qiyuan Niu, Shunsen Lv, Jiaqi Zhai, **<u>Wen
 Long Zheng, Bing Zhu, Pengcheng Yao, Yuhang Zhou, Chengao Pan, **<u>Wenju Zhao</u>**, Xiaofei Liao, Hai Jin, and Jingling Xue<br>
 *ACM Transactions on Architecture and Code Optimization (CCF-A Journal)*
 - **[JCST 2024] Towards High-Performance Graph Processing: From a Hardware/Software Co-Design Perspective**<br>
-**<u>Xiaofei Liao, Wenju Zhao</u>**, Hai Jin, Pengcheng Yao, Yu Huang, Qinggang Wang, Jin Zhao, Long Zheng, Yu Zhang, Zhiyuan Shao<br>
+**<u>Xiaofei Liao, Wenju Zhao#</u>**, Hai Jin, Pengcheng Yao, Yu Huang, Qinggang Wang, Jin Zhao, Long Zheng, Yu Zhang, Zhiyuan Shao<br>
 *Journal of Computer Science and Technology (CCF-B Journal, <span style="color:red">Cover Article</span>)*
 
 <span class="anchor" id="academic-achievements"></span>
