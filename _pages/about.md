@@ -39,7 +39,7 @@ His research focuses on efficient AI acceleration, particularly on the co-design
 
 # 📝 Publications (**<u>first author</u>**, **<u>co-first author*</u>**, **<u>student first author<sup>#</sup></u>**)
 - **[TCAD 2026] HyperPIM: A Redundancy-Aware Heterogeneous PIM Accelerator for Hypergraph Neural Networks**<br>
-**<u>Zhongtian Long*, Wenju Zhao*, Mo Zou*</u>**, Hongrui Guo, Jin Zhao, Qiyuan Niu, Yutao Fu, Shunsen Lv, Zixiao Wang, Yuluo Guo, Yongwei Zhao, Yu Zhang, and Hai Jin<br>
+**<u>Zhongtian Long*, Wenju Zhao*</u>**, Mo Zou, Hongrui Guo, Jin Zhao, Qiyuan Niu, Yutao Fu, Shunsen Lv, Zixiao Wang, Yuluo Guo, Yongwei Zhao, Yu Zhang, and Hai Jin<br>
 *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (CCF-A Journal)*
 - **[TCAD 2026] SpecTwin: Accelerating Tree-based Speculative Decoding via Differential Token Quantization**<br>
 Yufei Sun, Pengcheng Yao, Long Zheng, Yundong Zhang, Yu Huang, Qinggang Wang, Huize Li, Wenju Zhao, Bing Zhu, Haifeng Liu, Xiaofei Liao, and Hai Jin<br>
