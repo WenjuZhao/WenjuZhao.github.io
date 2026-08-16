@@ -1,6 +1,8 @@
 # Site Settings
 title                    : "Wenju Zhao"
-description              : 
+description              : "Wenju Zhao is a PhD candidate at HUST researching efficient AI acceleration, LLM inference, quantization, graph neural networks, and computer architecture."
+url                      : "https://wenjuzhao.github.io"
+baseurl                  : ""
 repository               : "WenjuZhao/WenjuZhao.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -16,14 +18,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wenju Zhao"
   avatar           : "images/lasvegas.jpg"
-  bio              : "PHD candidate"
+  bio              : "PhD candidate researching efficient AI acceleration"
   location         : "Wuhan, China"
   employer         :  "HUST"
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "wjzh@hust.edu.cn"
   researchgate     :  "https://www.researchgate.net/profile/Wenju-Zhao-4?ev=hdr_xprf"
-  uri              :
+  uri              : "https://wenjuzhao.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :

@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Wenju Zhao | PhD Candidate at HUST | AI & Computer Architecture"
+description: "Wenju Zhao is a PhD candidate at HUST researching efficient AI acceleration, LLM inference, quantization, graph neural networks, and computer architecture."
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,6 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+
+# Wenju Zhao (赵文举)
 
 Wenju Zhao (赵文举) is a PhD candidate in the School of Computer Science and Technology at Huazhong University of Science and Technology, advised by <a href="http://faculty.hust.edu.cn/xfliao/zh_CN/index.htm" target="_blank">Prof. Xiaofei Liao</a>. He conducts his research within the Key Laboratory of Services Computing Technology and System, Ministry of Education (CGCL). Prior to his PhD, he received his bachelor's degree in Data Science and Big Data Technology from Wuhan University of Technology (2018–2022).
 
@@ -92,4 +94,3 @@ Long Zheng, Bing Zhu, Pengcheng Yao, Yuhang Zhou, Chengao Pan, Wenju Zhao, Xiaof
 - ***2021:*** Outstanding Scholarship, Wuhan University of Technology (highest honor of the university, Top 0.1%)
 - ***2021:*** Mathematical Contest in Modeling – Meritorious Winner
 - ***2021:*** China Undergraduate Mathematical Contest in Modeling – Second Prize
-
