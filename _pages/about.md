@@ -48,6 +48,7 @@ His research focuses on efficient AI acceleration, particularly on the co-design
 **<u>Wenju Zhao</u>**, Jianhui Yue, Pengcheng Yao, Yujia Cui, Qinggang Wang, Yufei Sun, Jiaqi Zhai, Hai Jin, Xiaofei Liao
 <br>
 *The Chips to Systems Conference (CCF-A Conference, Top Tier Conference in EDA)*
+- **[HPCA 2025] MeHyper: Accelerating Hypergraph Neural Networks by Exploring Implicit Dataflows**<br>
 **<u>Wenju Zhao</u>**, Pengcheng Yao, Dan Chen, Long Zheng, Xiaofei Liao, Qinggang Wang, Shaobo Ma, Yu Li, Haifeng Liu, Wenjing Xiao, Yufei Sun, Bing Zhu, Hai Jin, Jingling Xue<br>
 *The International Symposium on High-Performance Computer Architecture (CCF-A Conference, Top Tier Conference in Computer Architecture)*
 - **[TCAD 2026] HyperPIM: A Redundancy-Aware Heterogeneous PIM Accelerator for Hypergraph Neural Networks**<br>
@@ -73,7 +74,6 @@ Jiaqi Zhai, Xuanhua Shi, **Wenju Zhao**, Kaiyi Huang, Chencheng Ye, Shunsen Lv, 
 - **[SSI 2026] A High-Efficiency 3D-Stacked Accelerator for Deep Graph Neural Network Inference**<br>
 Zhongtian Long, Yu Zhang, Yutao Fu, Qiyuan Niu, Shunsen Lv, Jiaqi Zhai, **Wenju Zhao**, Yingqi Zhao, Hai Jin<br>
 *Scientia Sinica Informationis (CCF-T1 Journal)*
-- **[HPCA 2025] MeHyper: Accelerating Hypergraph Neural Networks by Exploring Implicit Dataflows**<br>
 - **[TACO 2025] PRAGA: A Priority-Aware Hardware/Software Co-design for High-Throughput Graph Processing Acceleration**<br>
 Long Zheng, Bing Zhu, Pengcheng Yao, Yuhang Zhou, Chengao Pan, **Wenju Zhao**, Xiaofei Liao, Hai Jin, and Jingling Xue<br>
 *ACM Transactions on Architecture and Code Optimization (CCF-A Journal)*
