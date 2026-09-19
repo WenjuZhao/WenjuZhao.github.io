@@ -57,6 +57,8 @@ His research focuses on efficient AI acceleration, particularly on the co-design
 - **[JCST 2024] Towards High-Performance Graph Processing: From a Hardware/Software Co-Design Perspective**<br>
 **<u>Xiaofei Liao, Wenju Zhao<sup>#</sup></u>**, Hai Jin, Pengcheng Yao, Yu Huang, Qinggang Wang, Jin Zhao, Long Zheng, Yu Zhang, Zhiyuan Shao<br>
 *Journal of Computer Science and Technology (CCF-B Journal, <span style="color:red">Cover Article</span>)*
+- **[Arxiv 2026] From Splats to Silicon: Rethinking Computational Efficiency of 3DGS**<br>
+Minnan Pei, Qiwei Dong, Yihan Zhou, Gang Li, Yuchen Zhu, **Wenju Zhao**, Zhongtian Long, Siting Wang, Peisong Wang, and Jian Cheng<br>
 - **[ICCD 2026] ReHyper: A Redundancy-Eliminated Accelerator for Dynamic Hypergraph Neural Networks**<br>
 Zhongtian Long, Mo Zou, Qiyuan Niu, **Wenju Zhao**, Yutao Fu, Jiaqi Zhai, Shunsen Lv, Zixiao Wang, Yuluo Guo, Yuanyuan Liang, Hongrui Guo, Jin Zhao, Yu Zhang<br>
 *IEEE International Conference on Computer Design (CCF-B Conference)*
@@ -90,7 +92,7 @@ Long Zheng, Bing Zhu, Pengcheng Yao, Yuhang Zhou, Chengao Pan, **Wenju Zhao**, X
 
 # 🎖 Honors and Services
 - ***2026:*** ISCA'26 Artifact Evaluation Committee
-- ***2024, 2020:*** National Scholarship, Ministry of Education, China
+- ***2026, 2024, 2020:*** National Scholarship, Ministry of Education, China
 - ***2024:*** Science and Technology Innovation Scholarship, Huazhong University of Science and Technology
 - ***2023, 2022:*** First Class Doctoral Scholarship, Huazhong University of Science and Technology
 - ***2021:*** Outstanding Scholarship, Wuhan University of Technology (highest honor of the university, Top 0.1%)
