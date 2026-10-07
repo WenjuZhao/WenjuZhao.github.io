@@ -31,7 +31,7 @@ His research focuses on efficient AI acceleration, particularly on the co-design
 - ***2026.08 – 2027.06:*** 
   Visiting Scholar, School of Computing, National University of Singapore; Supervised by <a href="https://www.comp.nus.edu.sg/~hebs/" target="_blank">Prof. Bingsheng He</a>; Working on machine learning acceleration.
 
-- ***2022.06 – 2027.06:*** 
+- ***2022.06 – 2027.04:*** 
   PhD Candidate in Computer Science, Huazhong University of Science and Technology; Supervised by <a href="http://faculty.hust.edu.cn/xfliao/zh_CN/index.htm" target="_blank">Prof. Xiaofei Liao</a>; GPA: 3.77/4; Rank: 1/11
 
 - ***2018.09 – 2022.06:***
