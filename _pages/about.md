@@ -23,6 +23,7 @@ Wenju Zhao (赵文举) is a PhD candidate in the School of Computer Science and 
 
 His research focuses on efficient AI acceleration, particularly on the co-design of algorithms and hardware for Large Language Models (LLMs) and Graph Neural Networks (GNNs). He also works on model compression techniques such as quantization and pruning, which complement his system-level designs by reducing computational and memory demands. Overall, his work aims to develop more efficient architectural support for modern AI inference workloads.
 
+<p style="color: #c62828;">I am seeking industry positions or postdoctoral opportunities in efficient AI inference, model compression, and computer architecture. Please feel free to contact me if you have suitable opportunities.</p>
 
 <span class="anchor" id="educations"></span>
 
@@ -57,6 +58,8 @@ His research focuses on efficient AI acceleration, particularly on the co-design
 - **[JCST 2024] Towards High-Performance Graph Processing: From a Hardware/Software Co-Design Perspective**<br>
 **<u>Xiaofei Liao, Wenju Zhao<sup>#</sup></u>**, Hai Jin, Pengcheng Yao, Yu Huang, Qinggang Wang, Jin Zhao, Long Zheng, Yu Zhang, Zhiyuan Shao<br>
 *Journal of Computer Science and Technology (CCF-B Journal, <span style="color:red">Cover Article</span>)*
+- **[Arxiv 2026] ActTune: Action-Aware Precision and GPU Operating-Point Adaptation for Energy-Efficient Vision-Language-Action Inference**<br>
+Zou Qingyun, Bin Gao, **Wenju Zhao**, Weng-Fai Wong, Bingsheng He, and Tulika Mitra<br>
 - **[Arxiv 2026] From Splats to Silicon: Rethinking Computational Efficiency of 3DGS**<br>
 Minnan Pei, Qiwei Dong, Yihan Zhou, Gang Li, Yuchen Zhu, **Wenju Zhao**, Zhongtian Long, Siting Wang, Peisong Wang, and Jian Cheng<br>
 - **[ICCD 2026] ReHyper: A Redundancy-Eliminated Accelerator for Dynamic Hypergraph Neural Networks**<br>
