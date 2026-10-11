@@ -25,6 +25,12 @@ His research focuses on efficient AI acceleration, particularly on the co-design
 
 <p style="color: #c62828;">I am seeking industry positions or postdoctoral opportunities in efficient AI inference, model compression, and computer architecture. Please feel free to contact me if you have suitable opportunities.</p>
 
+<p>
+  <a href="{{ '/append/CV_EN.pdf' | relative_url }}" download>Download CV (PDF)</a>
+  &nbsp;|&nbsp;
+  <a href="{{ '/append/Transcripts-WenjuZhao.pdf' | relative_url }}" download>Download Transcripts (PDF)</a>
+</p>
+
 <span class="anchor" id="educations"></span>
 
 # 📖 Education
