@@ -34,19 +34,21 @@ His research focuses on efficient AI acceleration, particularly on the co-design
 <span class="anchor" id="educations"></span>
 
 # 📖 Education
-- ***2026.08 – 2027.06:*** 
-  Visiting Scholar, School of Computing, National University of Singapore; Supervised by <a href="https://www.comp.nus.edu.sg/~hebs/" target="_blank">Prof. Bingsheng He</a>; Working on machine learning acceleration.
 
-- ***2022.06 – 2027.04:*** 
-  PhD Candidate in Computer Science, Huazhong University of Science and Technology; Supervised by <a href="http://faculty.hust.edu.cn/xfliao/zh_CN/index.htm" target="_blank">Prof. Xiaofei Liao</a>; GPA: 3.77/4; Rank: 1/11
+- ***2026.08 – present*** (visit expected to end in April 2027)<br>
+  Visiting PhD student, School of Computing, National University of Singapore. Research on LLM inference acceleration and model compression with <a href="https://www.comp.nus.edu.sg/~hebs/">Prof. Bingsheng He</a>.
 
-- ***2018.09 – 2022.06:***
-  Bachelor of Engineering in Data Science and Big Data Technology, Wuhan University of Technology; GPA: 4.317/5; Rank: 1/33
+- ***2022.09 – present*** (expected graduation in June 2027)<br>
+  PhD candidate in Computer Science, Huazhong University of Science and Technology. Advised by <a href="http://faculty.hust.edu.cn/xfliao/zh_CN/index.htm">Prof. Xiaofei Liao</a>. GPA 3.77/4 (ranked 1 of 11).
+
+- ***2018.09 – 2022.06***<br>
+  Bachelor of Engineering in Data Science and Big Data Technology, Wuhan University of Technology. GPA 4.317/5 (ranked 1 of 33).
 
 
 <span class="anchor" id="publications"></span>
 
 # 📝 Publications (**<u>first author</u>**, **<u>co-first author*</u>**, **<u>student first author<sup>#</sup></u>**)
+
 - **[MICRO 2026] SkewQ: Skewness-Aware Cross-Layer Quantization for Efficient LLM Inference via Software-Hardware Co-Design**<br>
 **<u>Wenju Zhao</u>**, Jianhui Yue, Pengcheng Yao, Jiaqi Zhai, Yundong Zhang, Yu Huang, Shunsen Lv, Bing Zhu, Zhongtian Long, Chencheng Ye, Lihong Gu, Jingling Xue, Hai Jin, and Xiaofei Liao<br>
 *The International Symposium on Microarchitecture (CCF-A Conference, Top Tier Conference in Computer Architecture)*
@@ -70,10 +72,10 @@ Shunsen Lv, Jianhui Yue, Yu Zhang, Jiaqi Zhai, Jiangqiu Shen, Zhongtian Long, **
 *ACM Transactions on Architecture and Code Optimization (CCF-A Journal)*
 - **[arXiv 2026] ActTune: Action-Aware Precision and GPU Operating-Point Adaptation for Energy-Efficient Vision-Language-Action Inference**<br>
 Zou Qingyun, Bin Gao, **Wenju Zhao**, Weng-Fai Wong, Bingsheng He, and Tulika Mitra<br>
-*arXiv preprint*
+*arXiv preprint* · [arXiv:2610.08444v1](https://arxiv.org/abs/2610.08444v1)
 - **[arXiv 2026] From Splats to Silicon: Rethinking Computational Efficiency of 3DGS**<br>
 Minnan Pei, Qiwei Dong, Yihan Zhou, Gang Li, Yuchen Zhu, **Wenju Zhao**, Zhongtian Long, Siting Wang, Peisong Wang, and Jian Cheng<br>
-*arXiv preprint*
+*arXiv preprint* · [arXiv:2609.06157](https://arxiv.org/abs/2609.06157)
 - **[ICCD 2026] ReHyper: A Redundancy-Eliminated Accelerator for Dynamic Hypergraph Neural Networks**<br>
 Zhongtian Long, Mo Zou, Qiyuan Niu, **Wenju Zhao**, Yutao Fu, Jiaqi Zhai, Shunsen Lv, Zixiao Wang, Yuluo Guo, Yuanyuan Liang, Hongrui Guo, Jin Zhao, and Yu Zhang<br>
 *IEEE International Conference on Computer Design (CCF-B Conference)*
@@ -92,6 +94,14 @@ Zhongtian Long, Yu Zhang, Yutao Fu, Qiyuan Niu, Shunsen Lv, Jiaqi Zhai, **Wenju 
 - **[TACO 2025] PRAGA: A Priority-Aware Hardware/Software Co-design for High-Throughput Graph Processing Acceleration**<br>
 Long Zheng, Bing Zhu, Pengcheng Yao, Yuhang Zhou, Chengao Pan, **Wenju Zhao**, Xiaofei Liao, Hai Jin, and Jingling Xue<br>
 *ACM Transactions on Architecture and Code Optimization (CCF-A Journal)*
+
+## Manuscripts under review
+
+- **MetaKV: Metadata-Aware KV-Cache Quantization for Efficient Long-Context LLM Inference via Software-Hardware Co-Design**<br>
+  **<u>Wenju Zhao</u>**, Bowen Rao, Pengcheng Yao, Jianhui Yue, Shunsen Lv, Zhongtian Long, Jiaqi Zhai, Nanxun Wu, Zhen Zeng, Yu Huang, Bingsheng He, Jingling Xue, Hai Jin, and Xiaofei Liao
+- **AdaVLA: A Spatiotemporally Adaptive Chiplet Architecture for Asynchronous Vision-Language-Action Inference**<br>
+  **<u>Wenju Zhao</u>**, Bowen Rao, Pengcheng Yao, Chunlin Tian, Qingyun Zou, Mingjia Fan, Shihong Xi, Yongzhi Qian, Bingsheng He, and Xiaofei Liao
+
 <span class="anchor" id="academic-achievements"></span>
 
 # ⭐ Academic Achievements
@@ -104,10 +114,12 @@ Long Zheng, Bing Zhu, Pengcheng Yao, Yuhang Zhou, Chengao Pan, **Wenju Zhao**, X
 <span class="anchor" id="honors-and-awards"></span>
 
 # 🎖 Honors and Services
-- ***2026:*** ISCA'26 Artifact Evaluation Committee
+
+- ***2026.10:*** MICRO 2026 Travel Grant
+- ***2026.04:*** Member, ISCA 2026 Artifact Evaluation Committee
 - ***2026, 2024, 2020:*** National Scholarship, Ministry of Education, China
 - ***2024:*** Science and Technology Innovation Scholarship, Huazhong University of Science and Technology
 - ***2023, 2022:*** First Class Doctoral Scholarship, Huazhong University of Science and Technology
 - ***2021:*** Outstanding Scholarship, Wuhan University of Technology (highest honor of the university, Top 0.1%)
 - ***2021:*** Mathematical Contest in Modeling – Meritorious Winner
-- ***2021:*** China Undergraduate Mathematical Contest in Modeling – Second Prize
+- ***2020.11:*** China Undergraduate Mathematical Contest in Modeling – Second Prize
