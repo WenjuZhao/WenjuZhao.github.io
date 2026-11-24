@@ -64,9 +64,9 @@ His research focuses on efficient AI acceleration, particularly on the co-design
 - **[JCST 2024] Towards High-Performance Graph Processing: From a Hardware/Software Co-Design Perspective**<br>
 **<u>Xiaofei Liao, Wenju Zhao<sup>#</sup></u>**, Hai Jin, Pengcheng Yao, Yu Huang, Qinggang Wang, Jin Zhao, Long Zheng, Yu Zhang, and Zhiyuan Shao<br>
 *Journal of Computer Science and Technology (CCF-B Journal, <span style="color:red">Cover Article</span>)*
-- **[Under review] MetaKV: Metadata-Aware KV-Cache Quantization for Efficient Long-Context LLM Inference via Software-Hardware Co-Design**<br>
+- **[Under review at ISCA 2027] MetaKV: Metadata-Aware KV-Cache Quantization for Efficient Long-Context LLM Inference via Software-Hardware Co-Design**<br>
 **<u>Wenju Zhao</u>**, Bowen Rao, Pengcheng Yao, Jianhui Yue, Shunsen Lv, Zhongtian Long, Jiaqi Zhai, Nanxun Wu, Zhen Zeng, Yu Huang, Bingsheng He, Jingling Xue, Hai Jin, and Xiaofei Liao
-- **[Under review] AdaVLA: A Spatiotemporally Adaptive Chiplet Architecture for Asynchronous Vision-Language-Action Inference**<br>
+- **[Under review at DAC 2027] AdaVLA: A Spatiotemporally Adaptive Chiplet Architecture for Asynchronous Vision-Language-Action Inference**<br>
 **<u>Wenju Zhao</u>**, Bowen Rao, Pengcheng Yao, Chunlin Tian, Qingyun Zou, Mingjia Fan, Shihong Xi, Yongzhi Qian, Bingsheng He, and Xiaofei Liao
 - **[PPoPP 2027] EvoCG: Self-Evolving Precision Control for Faster Conjugate Gradient**<br>
 Jiaqi Zhai, Haozhi Han, Kaiyi Huang, **Wenju Zhao**, Yifeng Chen, Yunquan Zhang, Ting Cao, Yunxin Liu, Hai Jin, Xuanhua Shi, and Kun Li<br>
