@@ -64,6 +64,10 @@ His research focuses on efficient AI acceleration, particularly on the co-design
 - **[JCST 2024] Towards High-Performance Graph Processing: From a Hardware/Software Co-Design Perspective**<br>
 **<u>Xiaofei Liao, Wenju Zhao<sup>#</sup></u>**, Hai Jin, Pengcheng Yao, Yu Huang, Qinggang Wang, Jin Zhao, Long Zheng, Yu Zhang, and Zhiyuan Shao<br>
 *Journal of Computer Science and Technology (CCF-B Journal, <span style="color:red">Cover Article</span>)*
+- **[Under review] MetaKV: Metadata-Aware KV-Cache Quantization for Efficient Long-Context LLM Inference via Software-Hardware Co-Design**<br>
+**<u>Wenju Zhao</u>**, Bowen Rao, Pengcheng Yao, Jianhui Yue, Shunsen Lv, Zhongtian Long, Jiaqi Zhai, Nanxun Wu, Zhen Zeng, Yu Huang, Bingsheng He, Jingling Xue, Hai Jin, and Xiaofei Liao
+- **[Under review] AdaVLA: A Spatiotemporally Adaptive Chiplet Architecture for Asynchronous Vision-Language-Action Inference**<br>
+**<u>Wenju Zhao</u>**, Bowen Rao, Pengcheng Yao, Chunlin Tian, Qingyun Zou, Mingjia Fan, Shihong Xi, Yongzhi Qian, Bingsheng He, and Xiaofei Liao
 - **[PPoPP 2027] EvoCG: Self-Evolving Precision Control for Faster Conjugate Gradient**<br>
 Jiaqi Zhai, Haozhi Han, Kaiyi Huang, **Wenju Zhao**, Yifeng Chen, Yunquan Zhang, Ting Cao, Yunxin Liu, Hai Jin, Xuanhua Shi, and Kun Li<br>
 *The ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (CCF-A Conference, Top Tier Conference in Computer Systems)*
@@ -94,13 +98,6 @@ Zhongtian Long, Yu Zhang, Yutao Fu, Qiyuan Niu, Shunsen Lv, Jiaqi Zhai, **Wenju 
 - **[TACO 2025] PRAGA: A Priority-Aware Hardware/Software Co-design for High-Throughput Graph Processing Acceleration**<br>
 Long Zheng, Bing Zhu, Pengcheng Yao, Yuhang Zhou, Chengao Pan, **Wenju Zhao**, Xiaofei Liao, Hai Jin, and Jingling Xue<br>
 *ACM Transactions on Architecture and Code Optimization (CCF-A Journal)*
-
-## Manuscripts under review
-
-- **MetaKV: Metadata-Aware KV-Cache Quantization for Efficient Long-Context LLM Inference via Software-Hardware Co-Design**<br>
-  **<u>Wenju Zhao</u>**, Bowen Rao, Pengcheng Yao, Jianhui Yue, Shunsen Lv, Zhongtian Long, Jiaqi Zhai, Nanxun Wu, Zhen Zeng, Yu Huang, Bingsheng He, Jingling Xue, Hai Jin, and Xiaofei Liao
-- **AdaVLA: A Spatiotemporally Adaptive Chiplet Architecture for Asynchronous Vision-Language-Action Inference**<br>
-  **<u>Wenju Zhao</u>**, Bowen Rao, Pengcheng Yao, Chunlin Tian, Qingyun Zou, Mingjia Fan, Shihong Xi, Yongzhi Qian, Bingsheng He, and Xiaofei Liao
 
 <span class="anchor" id="academic-achievements"></span>
 
