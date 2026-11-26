@@ -50,7 +50,7 @@ His research focuses on efficient AI acceleration, particularly on the co-design
 # 📝 Publications (**<u>first author</u>**, **<u>co-first author*</u>**, **<u>student first author<sup>#</sup></u>**)
 
 - **[MICRO 2026] SkewQ: Skewness-Aware Cross-Layer Quantization for Efficient LLM Inference via Software-Hardware Co-Design**<br>
-**<u>Wenju Zhao</u>**, Jianhui Yue, Pengcheng Yao, Jiaqi Zhai, Yundong Zhang, Yu Huang, Shunsen Lv, Bing Zhu, Zhongtian Long, Chencheng Ye, Lihong Gu, Jingling Xue, Hai Jin, and Xiaofei Liao<br>
+**<u>Wenju Zhao</u>**, Jianhui Yue, Pengcheng Yao, Jiaqi Zhai, Yundong Zhang, Yu Huang, Shunsen Lv, Bing Zhu, Zhongtian Long, Long Zheng, Chencheng Ye, Lihong Gu, Jingling Xue, Hai Jin, and Xiaofei Liao<br>
 *The International Symposium on Microarchitecture (CCF-A Conference, Top Tier Conference in Computer Architecture)*
 - **[DAC 2026] FuseDot: A Multiplication-Fused Dot Product Accelerator for Efficient LLM Inference**<br>
 **<u>Wenju Zhao</u>**, Jianhui Yue, Pengcheng Yao, Yujia Cui, Qinggang Wang, Yufei Sun, Jiaqi Zhai, Hai Jin, and Xiaofei Liao<br>
